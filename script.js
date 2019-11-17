@@ -130,7 +130,7 @@ function player_level() {
 function game_over() {
   window_context.font = "100px Arial";
   window_context.fillStyle = "#f0072a";
-  window_context.fillText("Game Over", 500, 250);
+  window_context.fillText("Game Over", 300, 250);
 }
 
 function draw() {
